@@ -1,3 +1,4 @@
+
 import random
 from Game_data import data
 score = 0
